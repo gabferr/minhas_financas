@@ -1,9 +1,8 @@
 package main
 
-import (
-	"github.com/gin-gonic/gin"
-)
+import "github.com/gabferr/minhas_financas/router"
 
 func main() {
-	r := gin.Default()
+	//initialize router
+	router.Initialize()
 }
