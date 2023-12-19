@@ -1,0 +1,15 @@
+*.exe
+*.dll
+*.so
+*.dyLib
+
+#Text binary
+
+*.Text
+
+#COVERAGE
+*.out
+ 
+ Db folder
+
+ db/
